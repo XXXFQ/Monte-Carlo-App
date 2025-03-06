@@ -1,0 +1,1 @@
+@py -m "monte_carlo" %*
